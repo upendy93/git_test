@@ -1,0 +1,1 @@
+This is Penny's first git project! 
